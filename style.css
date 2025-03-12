@@ -144,3 +144,7 @@ form div.incorrect label {
 form div.incorrect input {
   border-color: #f23800;
 }
+
+#error-message {
+  color: #f23800;
+}
